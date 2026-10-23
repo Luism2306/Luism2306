@@ -93,7 +93,7 @@ const now = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luism2306&theme=tokyo-night&hide_border=true&radius=12&area=true" width="100%" alt="Gráfica de actividad"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Gráfica de actividad"/>
 
 </div>
 
